@@ -1,5 +1,5 @@
-#Joshua Twardosz
-#Assignment 2
+
+
 
 import numpy as np
 import cv2 
